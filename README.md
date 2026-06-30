@@ -27,6 +27,7 @@ Sistema de búsqueda y ranking de candidatos (talent matching) que compara CVs s
 
 ## Estructura del proyecto
 ├── MNA_NLP_actividad_Busqueda_de_Talento.ipynb   # Notebook principal
+
 └── cvs_creados/                                   # CVs sintéticos generados (PDF/PNG)
 
 ## Decisiones de diseño relevantes
